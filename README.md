@@ -6,7 +6,7 @@ To run this programm you have to :
 
   #1 - Download on https://takeout.google.com/settings/takeout your Youtube Data JSON files.
   
-  #2 - Place the github folder in the folder Youtube data names : 'Youtube and Youtube Music'
+  #2 - Place the github folder in the pythons files Youtube data names : 'Youtube and Youtube Music'
   
   #3 - Run Number_api_key.py and notes this number (i hope, his is under or equal to 10 otherwise it is dead. In fact, Google autorize only 10 API key for 10,000 request for each per day)
   
