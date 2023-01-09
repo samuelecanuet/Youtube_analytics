@@ -10,7 +10,7 @@ To run this programm you have to :
   
   #3 - Run Number_api_key.py and notes this number (i hope, his is under or equal to 10 otherwise it is dead. In fact, Google autorize only 10 API key for 10,000 request for each per day)
   
-  #4 - Go to https://console.cloud.google.com/ to take the number API key you needed.\n
+  #4 - Go to https://console.cloud.google.com/ to take the number API key you needed.
      1) Sign in ou sign up with a Google account
      2) Creat a new project
      3) Go to dashbord, scroll down and click on 'explore and activate APIs' in 'First Step' section
